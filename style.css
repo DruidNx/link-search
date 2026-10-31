@@ -1,0 +1,4 @@
+body { max-width: 680px; margin: 48px auto; padding: 0 20px; font: 16px/1.6 -apple-system, BlinkMacSystemFont, sans-serif; color: #1d1d1f; }
+h1 { font-size: 26px; } h2 { font-size: 18px; margin-top: 28px; }
+a { color: #2f6fde; } nav { margin-bottom: 32px; font-size: 14px; } nav a { margin-right: 16px; }
+footer { margin-top: 48px; font-size: 13px; color: #6e6e73; }
